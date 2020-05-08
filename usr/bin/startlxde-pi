@@ -1,9 +1,9 @@
 #!/bin/sh
 
 if ! grep -q 'Raspberry Pi' /proc/device-tree/model || (grep -q okay /proc/device-tree/soc/v3d@7ec00000/status 2> /dev/null || grep -q okay /proc/device-tree/soc/firmwarekms@7e600000/status 2> /dev/null) ; then
-  export XDG_DATA_DIRS="/usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg"
+  export XDG_DATA_DIRS="/usr/share/fkms:${XDG_DATA_DIRS:-/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg}"
 else
-  export XDG_DATA_DIRS="/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg"
+  export XDG_DATA_DIRS="${XDG_DATA_DIRS:-/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg}"
 fi
 
 if [ -z "$XDG_CONFIG_HOME" ]; then
