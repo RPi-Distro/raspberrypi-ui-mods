@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Type=Application
 Name=Theme and Appearance Settings
 Name[ar]=تخصيص المظهر و الإحساس
@@ -28,7 +29,7 @@ Name[lg]=Tegeka eby'endabika n'enneyisa
 Name[lt]=Derinti išvaizdą
 Name[nl]=Uiterlijk en bediening aanpassen
 Name[pa]=ਦਿੱਖ ਤੇ ਪਰਭਾਵ ਪਸੰਦ ਮੁਤਾਬਕ
-Name[pl]=Preferencje wyglądu
+Name[pl]=Ustawienia motywu i wyglądu
 Name[pt]=Personalizar aparência e comportamento
 Name[pt_BR]=Personalizar visual
 Name[ro]=Personalizați desktopul
@@ -73,7 +74,7 @@ GenericName[lg]=Tegeka eby'endabika n'enneyisa
 GenericName[lt]=Derinti išvaizdą
 GenericName[nl]=Uiterlijk en bediening aanpassen
 GenericName[pa]=ਦਿੱਖ ਤੇ ਪਰਭਾਵ ਪਸੰਦ ਮੁਤਾਬਕ
-GenericName[pl]=Preferencje wyglądu
+GenericName[pl]=Ustawienia motywu i wyglądu
 GenericName[pt]=Personalizar aparência e comportamento
 GenericName[pt_BR]=Personalizar visual
 GenericName[ro]=Personalizați desktopul

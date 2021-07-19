@@ -16,7 +16,7 @@
 #   the License at http://www.apache.org/licenses/LICENSE-2.0 .
 #
 [Desktop Entry]
-Version=1.0
+Version=1.1
 Terminal=false
 NoDisplay=false
 Icon=libreoffice-math
@@ -209,6 +209,7 @@ Comment[be]=Стварайце і рэдагуйце навуковыя форм
 StartupNotify=true
 X-GIO-NoFuse=true
 Keywords=Equation;OpenDocument Formula;Formula;odf;MathML;
+Keywords[pl]=równanie;OpenDocument Formula;formuła;odf;MathML;
 InitialPreference=5
 StartupWMClass=libreoffice-math
 X-KDE-Protocols=file,http,smb,ftp,webdav
@@ -216,4 +217,5 @@ X-KDE-Protocols=file,http,smb,ftp,webdav
 Actions=NewDocument;
 [Desktop Action NewDocument]
 Name=New Formula
+Name[pl]=Nowa formuła
 Exec=libreoffice --math

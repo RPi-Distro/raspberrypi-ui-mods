@@ -1,6 +1,7 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
-Name=Terminal
+Name=LXTerminal
 Name[af]=LXTerminal
 Name[ar]=LXTerminal
 Name[be]=LXTerminal
@@ -139,7 +140,7 @@ Comment[lt]=Naudoti komandų eilutę
 Comment[nb]=Bruk kommandolinjen
 Comment[nl]=Gebruik de opdrachtregel
 Comment[nn]=Bruk kommandolinja
-Comment[pl]=Emulator terminala
+Comment[pl]=Terminal wiersza poleceń
 Comment[pt]=Utilizar a linha de comando
 Comment[pt_BR]=Use a linha de comando
 Comment[ro]=Folosește linia de comandă

@@ -1,5 +1,7 @@
 [Desktop Entry]
+Version=1.0
 Name=Text Editor
+Name[pl]=Edytor tekstu
 Comment=Simple text editor
 Comment[bg]=Опростен текстов редактор
 Comment[br]=Embanner testennou eeun
@@ -44,7 +46,6 @@ Exec=mousepad %F
 Icon=accessories-text-editor
 Terminal=false
 Type=Application
-MimeType=text/plain
+MimeType=text/plain;
 Categories=GTK;Utility;TextEditor;
 StartupNotify=true
-

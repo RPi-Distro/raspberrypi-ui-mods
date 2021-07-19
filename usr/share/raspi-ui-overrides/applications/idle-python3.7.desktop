@@ -1,8 +1,10 @@
 [Desktop Entry]
+Version=1.0
 Name=Python 3 (IDLE)
 Comment=Integrated development environment for Python 3
+Comment[pl]=Zintegrowane środowisko programistyczne dla Python 3
 TryExec=/usr/bin/idle-python3.7
-Exec=/usr/bin/idle-python3.7
+Exec=idle-python3.7
 Icon=python
 Terminal=false
 Type=Application

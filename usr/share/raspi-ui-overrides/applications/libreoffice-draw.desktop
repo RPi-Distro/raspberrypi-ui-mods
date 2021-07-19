@@ -16,7 +16,7 @@
 #   the License at http://www.apache.org/licenses/LICENSE-2.0 .
 #
 [Desktop Entry]
-Version=1.0
+Version=1.1
 Terminal=false
 Icon=libreoffice-draw
 Type=Application
@@ -208,6 +208,7 @@ Comment[lv]=Veidot un rediģēt zīmējumus, norises shēmas un firmas zīmes, l
 StartupNotify=true
 X-GIO-NoFuse=true
 Keywords=Vector;Schema;Diagram;Layout;OpenDocument Graphics;Microsoft Publisher;Corel Draw;cdr;odg;svg;
+Keywords[pl]=wektor;schemat;diagram;layout;rozmieszczenie;OpenDocument Graphics;grafika;Microsoft Publisher;Corel Draw;cdr;odg;svg;
 InitialPreference=5
 StartupWMClass=libreoffice-draw
 X-KDE-Protocols=file,http,smb,ftp,webdav
@@ -215,4 +216,5 @@ X-KDE-Protocols=file,http,smb,ftp,webdav
 Actions=NewDocument;
 [Desktop Action NewDocument]
 Name=New Drawing
+Name[pl]=Nowy rysunek
 Exec=libreoffice --draw

@@ -1,6 +1,8 @@
 [Desktop Entry]
+Version=1.0
 Name=Lxkeymap
 Comment=Lxkeymap application
+Comment[pl]=Aplikacja Lxkeymap
 Categories=Settings;
 Exec=lxkeymap
 Icon=/usr/share/lxkeymap/media/icon.png

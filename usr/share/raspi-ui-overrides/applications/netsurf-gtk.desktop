@@ -1,14 +1,18 @@
 [Desktop Entry]
+Version=1.0
 Name=NetSurf Web Browser
+Name[pl]=Przeglądarka sieci NetSurf
 Comment=Browse the World Wide Web
+Comment[pl]=Przeglądaj sieć ogólnoświatową
 GenericName=Web Browser
+GenericName[pl]=Przeglądarka sieci
 Exec=netsurf-gtk %u
 Terminal=false
 X-MultipleArgs=false
 Type=Application
 Icon=netsurf.png
 Categories=Network;
-MimeType=text/html;text/xml;application/xhtml+xml;application/xml
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;
 StartupWMClass=NetSurf-bin
 StartupNotify=true
 NoDisplay=true

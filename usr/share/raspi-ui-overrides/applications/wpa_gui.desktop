@@ -1,7 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=WiFi Configuration
+Name[pl]=Konfiguracja WiFi
 Comment=WiFi configuration utility
+Comment[pl]=Narzędzie konfiguracyjne WiFi
 TryExec=/usr/sbin/wpa_gui
 Exec=/usr/sbin/wpa_gui
 Icon=wpa_gui

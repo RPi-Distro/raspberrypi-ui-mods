@@ -2,6 +2,7 @@
 <mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
   <mime-type type="video/h264">
     <comment>h.264 video</comment>
+    <comment xml:lang="pl">wideo h.264</comment>
     <glob pattern="*.h264"/>
   </mime-type>
 </mime-info>

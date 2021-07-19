@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Type=Application
 Icon=user-desktop
 Name=Desktop Preferences
@@ -80,7 +81,7 @@ Comment[ko]=데스크톱의 바탕 화면을 바꾸고 데스크톱 관리자의
 Comment[lg]=Teekateka endabika y'obwaliriro bw'awakolerwa n'enkola y'ekiruŋamya awakolerwa
 Comment[lt]=Keiskite darbastalio foną ir darbastalio tvarkyklės elgseną
 Comment[nl]=Verander bureaubladachtergronden en het gedrag van de bureaubladbeheerder
-Comment[pl]=Zmienia tło pulpitu i zachowanie menedżera pulpitu
+Comment[pl]=Zmieniaj tło pulpitu i zachowanie zarządcy pulpitu
 Comment[pt]=Mudar papel de parede e comportamento do gestor de áreas de trabalho
 Comment[pt_BR]=Altere os papéis de parede e o comportamento do gerenciador da área de trabalho
 Comment[ro]=Schimbați imaginile de fundal și comportamentul managerului desktopului

@@ -1,9 +1,12 @@
 [Desktop Entry]
+Version=1.0
 Type=Application
 Icon=xfwm4
 Exec=lxsession-edit
 Name=Desktop Session Settings
+Name[pl]=Ustawienia sesji pulpitu
 Comment=Manage applications loaded in desktop session
+Comment[pl]=Zarządzaj aplikacjami załadowanymi podczas sesji
 Categories=Settings;DesktopSettings;X-LXDE-Settings;
 NotShowIn=GNOME;KDE;XFCE;
 NoDisplay=true

@@ -1,15 +1,18 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Type=Application
 Name=Logout
 Name[de]=Abmelden
 Name[fi]=Kirjaudu ulos
+Name[pl]=Wyloguj
 Name[pt]=Terminar sessão
 Name[pt_BR]=Desligar
 Name[zh_TW]=登出
 Comment=Logout, shutdown or reboot
 Comment[de]=Abmelden, herunterfahren oder neu starten
 Comment[fi]=Kirjaudu ulos, sammuta tai käynnistä tietokone uudelleen
+Comment[pl]=Wyloguj, wyłącz lub uruchom ponownie
 Comment[pt]=Terminar sessão, desligar ou reiniciar
 Comment[pt_BR]=Desligar, reiniciar, sair da sessão etc.
 Comment[zh_TW]=登出、關機、或重新開機
