@@ -1,8 +1,10 @@
 [Desktop Entry]
+Version=1.0
 Name=Python 2 (IDLE)
 Comment=Integrated development environment for Python 2
+Comment[de]=Integrierte Entwicklungsumgebung für Python 2
 TryExec=/usr/bin/idle
-Exec=/usr/bin/idle
+Exec=idle
 Icon=python
 Terminal=false
 MultipleArgs=false

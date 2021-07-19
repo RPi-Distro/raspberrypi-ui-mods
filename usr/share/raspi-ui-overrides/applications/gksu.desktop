@@ -1,7 +1,10 @@
 [Desktop Entry]
-Name=Root Terminal
-Comment=Opens a terminal as the root user, using gksu to ask for the password
+Version=1.0
 Encoding=UTF-8
+Name=Root Terminal
+Name[de]=Root‑Terminal
+Comment=Opens a terminal as the root user, using gksu to ask for the password
+Comment[de]=Öffnet ein Terminal mit dem Benutzer „root“ unter Verwendung von „gksu“ um das Kennwort abzufragen
 Exec=gksu /usr/bin/x-terminal-emulator
 Icon=gksu-root-terminal
 StartupNotify=true

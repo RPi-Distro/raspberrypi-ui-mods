@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Name=Document Viewer
 Name[af]=Dokumentbekyker
 Name[an]=Visualizador de documentos
@@ -105,7 +106,7 @@ Comment[ca]=Visualitzeu documents multipàgina
 Comment[ca@valencia]=Visualitzeu documents multipàgina
 Comment[cs]=Zobrazovat dokumenty po více stránkách
 Comment[da]=Vis dokumenter med flere sider
-Comment[de]=Mehrseitige Dokumente anzeigen
+Comment[de]=Mehrseitige Dokumente betrachten
 Comment[el]=Προβολή εγγράφων πολλαπλών σελίδων
 Comment[en@shaw]=𐑝𐑿 𐑥𐑩𐑤𐑑𐑰-𐑐𐑱𐑡 𐑛𐑪𐑒𐑿𐑥𐑩𐑯𐑑𐑕
 Comment[en_CA]=View multi-page documents
@@ -168,7 +169,7 @@ Comment[zh_HK]=顯示多頁文件
 Comment[zh_TW]=顯示多頁文件
 Comment[zu]=Buka amadokhumende wamakhasi amaningi
 Keywords=pdf;ps;postscript;dvi;xps;djvu;tiff;document;presentation;
-Keywords[af]=pdf;ps;postscript;dvi;xps;djvu;tiff;document;presentation;dokument;voorlegging;aanbieding
+Keywords[af]=pdf;ps;postscript;dvi;xps;djvu;tiff;document;presentation;dokument;voorlegging;aanbieding;
 Keywords[an]=pdf;ps;postscript;dvi;xps;djvu;tiff;document;presentation;
 Keywords[ar]=pdf;ps;بوستسكربت;dvi;xps;djvu;tiff;مستند;عرض;
 Keywords[as]=pdf;ps;postscript;dvi;xps;djvu;tiff;document;presentation;

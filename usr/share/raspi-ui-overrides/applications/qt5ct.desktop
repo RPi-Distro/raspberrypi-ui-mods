@@ -1,7 +1,6 @@
 [Desktop Entry]
-X-Desktop-File-Install-Version=0.11
+Version=1.0
 Name=Qt5 Settings
-
 Comment=Qt5 Configuration Tool
 
 Comment[ar]= أداة اعداد Qt5
@@ -13,8 +12,8 @@ Name[bg]=Настройки на Qt5
 Comment[da]=Qt5-konfigurationsværktøj
 Name[da]=Qt5-indstillinger
 
-Comment[de]=Qt5-Konfigurationswerkzeug
-Name[de]=Qt5-Einstellungen
+Comment[de]=Qt5‑Konfigurationswerkzeug
+Name[de]=Qt5‑Einstellungen
 
 Comment[el]=Εργαλείο διαμόρφωσης της Qt5
 Name[el]=Ρυθμίσεις Qt5
@@ -55,11 +54,11 @@ Name[zh_CN]=Qt5 设置
 Comment[zh_TW]=Qt5 設定工具
 Name[zh_TW]=Qt5 設定
 
-
 Exec=qt5ct
 Icon=preferences-desktop-theme
 Terminal=false
 Type=Application
 Categories=Settings;DesktopSettings;Qt;
 Keywords=settings;desktop;qt;qtsettings;qt5;
+Keywords[de]=Einstellungen;Desktop;Qt;qtsettings;qt5;
 NoDisplay=true

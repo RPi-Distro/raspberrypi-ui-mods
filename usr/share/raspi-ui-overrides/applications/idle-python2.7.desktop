@@ -1,7 +1,10 @@
 [Desktop Entry]
+Version=1.0
 Name=IDLE (using Python-2.7)
+Name[de]=IDLE (verwendet Python 2.7)
 Comment=Integrated Development Environment for Python (using Python-2.7)
-Exec=/usr/bin/idle-python2.7
+Comment[de]=Integrierte Entwicklungsumgebung für Python (verwendet Python 2.7)
+Exec=idle-python2.7
 Icon=python
 Terminal=false
 Type=Application

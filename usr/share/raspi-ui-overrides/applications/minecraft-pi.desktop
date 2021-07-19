@@ -1,6 +1,8 @@
 [Desktop Entry]
+Version=1.0
 Name=Minecraft Pi
 Comment=Fun with Blocks
+Comment[de]=Spaß mit Klötzchen
 TryExec=minecraft-pi
 Exec=minecraft-pi
 Icon=/usr/share/pixmaps/minecraft-pi.png

@@ -1,8 +1,11 @@
 [Desktop Entry]
+Version=1.0
 Name=Help
-Name[en_GB]=Help
+Name[de]=Hilfe
+Name[en]=Help
 Name[it]=Aiuto
 Comment=Reference material
-Comment[en_GB]=Reference material
+Comment[de]=Referenzmaterial
+Comment[en]=Reference material
 Icon=gnome-help
 Type=Directory

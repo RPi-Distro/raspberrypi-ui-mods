@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Name=Display Settings
 Name[af]=Monitorinstellings
 Name[ar]=إعدادات المرقاب
@@ -9,7 +10,7 @@ Name[bn]=পর্দার সেটিং
 Name[ca]=Paràmetres de la pantalla
 Name[cs]=Nastavení monitoru
 Name[da]=Skærmopsætning
-Name[de]=Bildschirmeinstellungen
+Name[de]=Anzeigeeinstellungen
 Name[el]=Ρυθμίσεις οθόνης
 Name[en_GB]=Display Settings
 Name[es]=Ajustes del monitor

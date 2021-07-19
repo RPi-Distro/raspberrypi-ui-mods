@@ -1,8 +1,11 @@
 [Desktop Entry]
-GenericName=Web Browser
-GenericName[lt]=Web naršyklė
+Version=1.0
 Name=Dillo
+GenericName=Web Browser
+GenericName[de]=Web‑Browser
+GenericName[lt]=Web naršyklė
 Comment=Lightweight browser
+Comment[de]=Leichtgewichtiger Browser
 Comment[lt]=Labai paprasta naršyklė
 MimeType=text/html;text/xml;application/xhtml+xml;
 Exec=dillo

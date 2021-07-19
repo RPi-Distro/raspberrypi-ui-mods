@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Type=Application
 Icon=user-desktop
 Name=Desktop Preferences
@@ -9,7 +10,7 @@ Name[bn]=ডেস্কটপের পছন্দসমূহ
 Name[ca]=Obre les preferències de l'escriptori
 Name[cs]=Nastavení pracovní plochy
 Name[da]=Skrivebordsindstillinger
-Name[de]=Desktop Einstellungen
+Name[de]=Desktop‑Einstellungen
 Name[el]=Ρυθμίσεις επιφάνειας εργασίας
 Name[en_GB]=Desktop Preferences
 Name[es]=Preferencias del escritorio
@@ -59,7 +60,7 @@ Comment[ar]=غيّر خلفيات سطح المكتب وسلوك مدير سطح
 Comment[be]=Змяненне шпалер і паводзін кіраўніка працоўных прастораў
 Comment[bg]=Промяна на тапетите и поведението на мениджъра на работния плот
 Comment[cs]=Změna tapety na plochu a ovládání správce plochy
-Comment[de]=Hintergrundbilder und Verhalten der Desktopverwaltung ändern
+Comment[de]=Hintergrundbilder und Verhalten der Desktop‑Verwaltung ändern
 Comment[el]=Αλλαγή ταπετσαρίας επιφανειών εργασίας και συμπεριφοράς του διαχειριστή επιφάνειας εργασίας
 Comment[en_GB]=Change desktop wallpapers and behaviour of desktop manager
 Comment[es]=Cambiar el fondo y el comportamiento del escritorio

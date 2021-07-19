@@ -1,9 +1,14 @@
 [Desktop Entry]
+Version=1.0
 Name=OpenJDK Java 7 Policy Tool
+Name[de]=OpenJDK Java 7 Richtlinienwerkzeug
 Name[fi]=OpenJDK Java 7 - käytäntötyökalu
 Comment=OpenJDK Java 7 Policy Tool
+Comment[de]=OpenJDK Java 7 Richtlinienwerkzeug
 Comment[fi]=OpenJDK Java 7 - käytäntötyökalu
-Exec=/usr/bin/policytool
+Keywords=java;security;policytool;
+Keywords[de]=java;Sicherheit;policytool;
+Exec=policytool
 Terminal=false
 Type=Application
 Icon=openjdk-7

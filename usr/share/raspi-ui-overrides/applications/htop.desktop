@@ -60,5 +60,6 @@ GenericName[sv]=Processvisning
 GenericName[tr]=Süreç Görüntüleyici
 GenericName[uk]=Перегляд процесів
 GenericName[zh_TW]=行程檢視器
-Keywords=system;process;task
+Keywords=system;process;task;
+Keywords[de]=System;Prozess;Task;Aufgabe;Arbeitsgang;
 NoDisplay=true

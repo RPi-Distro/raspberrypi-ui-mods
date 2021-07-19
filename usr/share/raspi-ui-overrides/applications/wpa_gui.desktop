@@ -1,7 +1,11 @@
 [Desktop Entry]
 Version=1.0
 Name=WiFi Configuration
+Name[de]=WiFi‑Konfiguration
 Comment=WiFi configuration utility
+Comment[de]=WiFi‑Konfigurationswerkzeug
+Keywords=wifi;wi-fi;WLAN;wireless;LAN;network;
+Keywords[de]=wifi;wi-fi;WLAN;Schnurlos;Kabellos;LAN;Netzwerk;
 TryExec=/usr/sbin/wpa_gui
 Exec=/usr/sbin/wpa_gui
 Icon=wpa_gui
