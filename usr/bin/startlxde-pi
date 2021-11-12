@@ -33,7 +33,7 @@ export XDG_MENU_PREFIX="lxde-pi-"
 
 TOTAL_MEM=$(vcgencmd get_config total_mem | cut -d= -f2)
 VNC=$(systemctl status vncserver-x11-serviced | grep -w active)
-if [ $TOTAL_MEM -ge 2048 ] && [ -f /usr/bin/mutter ] && [ -z "$VNC" ] ; then
+if [ $TOTAL_MEM -ge 2048 ] && [ -f /usr/bin/mutter ] && [ -z "$VNC" ] && [ -z "$XRDP_SESSION" ] ; then
   if [ -f "$XDG_CONFIG_HOME/gtk-3.0/gtk.css" ] ; then
     rm "$XDG_CONFIG_HOME/gtk-3.0/gtk.css"
   fi
