@@ -2,7 +2,7 @@
 # Use preference dialog in lxpanel to adjust config when you can.
 
 Global {
-  edge=top
+  edge=bottom
   align=left
   margin=0
   widthtype=percent
@@ -95,11 +95,6 @@ Plugin {
 }
 Plugin {
   type=tray
-  Config {
-  }
-}
-Plugin {
-  type=updater
   Config {
   }
 }

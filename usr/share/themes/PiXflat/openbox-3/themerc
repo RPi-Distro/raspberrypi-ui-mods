@@ -1,8 +1,8 @@
 # active window title bar
 window.active.title.bg: flat
-window.active.title.bg.color: #87919B
+window.active.title.bg.color: #0A3F58
 window.active.label.bg: parentrelative
-window.active.label.text.color: #F0F0F0
+window.active.label.text.color: #FFFFFF
 window.active.label.text.font: shadow=n
 window.active.button.unpressed.image.color: #F0F0F0
 window.active.button.pressed.image.color: #F0F0F0
@@ -16,9 +16,9 @@ window.active.client.color: #EEEFEE
 
 # inactive window title bar
 window.inactive.title.bg: flat
-window.inactive.title.bg.color: #EEEFEE
+window.inactive.title.bg.color: #1283BF
 window.inactive.label.bg: parentrelative
-window.inactive.label.text.color: #70747D
+window.inactive.label.text.color: #FFFFFF
 window.inactive.label.text.font: shadow=n
 window.inactive.button.unpressed.image.color: #6D6C6C
 window.inactive.button.pressed.image.color: #6D6C6C
@@ -41,7 +41,7 @@ window.inactive.client.color: #EEEFEE
 
 # borders
 border.width: 0
-border.radius: 1
+border.radius: 10
 window.handle.width: 0
 window.client.padding.width: 0
 
@@ -52,12 +52,12 @@ window.label.text.justify: center
 menu.border.color: #AAAAAA
 menu.separator.color: #AAAAAA
 menu.title.bg: solid flat
-menu.title.bg.color: #E6E7E6
-menu.title.text.color: #111111
+menu.title.bg.color: #09171F
+menu.title.text.color: #FFFFFF
 menu.items.bg: solid flat
-menu.items.bg.color: #FFFFFF
-menu.items.text.color: #111111
+menu.items.bg.color: #09171F
+menu.items.text.color: #FFFFFF
 menu.items.active.bg: flat border
-menu.items.active.bg.color: #8CB0DC
+menu.items.active.bg.color: #1283BF
 menu.items.active.text.color: #FFFFFF
 menu.items.disabled.text.color: #AAAAAA

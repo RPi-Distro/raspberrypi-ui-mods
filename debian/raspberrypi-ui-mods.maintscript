@@ -1,6 +1,0 @@
-rm_conffile /etc/X11/Xsession.d/90xmodmap 1.0-7
-rm_conffile /etc/xdg/autostart/lxkeymap.desktop 1.20180328
-rm_conffile /etc/xdg/lxpanel/profile/LXDE-pi/panels/panel 1.20180926
-rm_conffile /etc/xdg/lxpanel/profile/LXDE-pi/config 1.20180926
-rm_conffile /etc/xdg/lxsession/LXDE-pi/autokey.sh 1.20180926
-rm_conffile /etc/polkit-1/localauthority.conf.d/60-desktop-policy.conf 1.20201210
