@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Camera
+Comment=Stage Example
+Icon=usr/share/raspberrypi-artwork/stage.png
+Exec=bash -c 'ln -s /usr/share/applications/camera /home/$USER/Desktop/camera.desktop'
+Type=Application
+Encoding=UTF-8
+Terminal=falseAuto
+Categories=Education

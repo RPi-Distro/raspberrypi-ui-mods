@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Gazebo
+GenericName=Gazebo Robot Simulator
+Comment=3D Robot Simulator
+Exec=bash -c 'ln -s /usr/share/applications/gazebo /home/$USER/Desktop/gazebo.desktop'
+Icon=/usr/share/raspberrypi-artwork/gazebo.png
+Type=Application
+Categories=Education
+Terminal=false
+Name[en_GB]=Gazebo

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Pioneer Walle
+Comment=Stage Example
+Icon=usr/share/raspberrypi-artwork/stage.png
+Exec=stage /usr/local/share/stage/worlds/pioneer_walle.world
+Type=Application
+Encoding=UTF-8
+Terminal=falseAuto
+Categories=Education

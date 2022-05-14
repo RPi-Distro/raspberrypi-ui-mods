@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Simple
+Comment=Stage Example
+Icon=usr/share/raspberrypi-artwork/stage.png
+Exec=bash -c 'ln -s /usr/share/applications/simple /home/$USER/Desktop/simple.desktop'
+Type=Application
+Encoding=UTF-8
+Terminal=falseAuto
+Categories=Education
