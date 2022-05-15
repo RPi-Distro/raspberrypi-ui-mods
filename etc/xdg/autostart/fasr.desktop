@@ -1,8 +1,8 @@
 [Desktop Entry]
 Name=Fasr
 Comment=Stage Example
-Icon=usr/share/raspberrypi-artwork/stage.png
-Exec=bash -c 'ln -s /usr/share/applications/fasr /home/$USER/Desktop/fasr.desktop'
+Icon=/usr/share/raspberrypi-artwork/stage.png
+Exec=bash -c 'ln -s /usr/share/applications/fasr.desktop /home/$USER/Desktop/fasr.desktop'
 Type=Application
 Encoding=UTF-8
 Terminal=falseAuto

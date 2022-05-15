@@ -1,8 +1,8 @@
 [Desktop Entry]
 Name=Petoi
 Comment=Petoi Controller Qt
-Icon=usr/share/raspberrypi-artwork/petoi_logo.png
-Exec=bash -c 'ln -s /usr/share/applications/petoi /home/$USER/Desktop/petoi.desktop'
+Icon=/usr/share/raspberrypi-artwork/petoi_logo.png
+Exec=bash -c 'ln -s /usr/share/applications/petoi.desktop /home/$USER/Desktop/petoi.desktop'
 Type=Application
 Encoding=UTF-8
 Terminal=falseAuto

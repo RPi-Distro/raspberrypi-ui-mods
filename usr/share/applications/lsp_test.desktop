@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=LSP Test
 Comment=Stage Example
-Icon=usr/share/raspberrypi-artwork/stage.png
+Icon=/usr/share/raspberrypi-artwork/stage.png
 Exec=stage /usr/local/share/stage/worlds/lsp_test.world
 Type=Application
 Encoding=UTF-8

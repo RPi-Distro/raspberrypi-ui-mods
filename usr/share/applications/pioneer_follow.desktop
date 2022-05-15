@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Pioneer Follow
 Comment=Stage Example
-Icon=usr/share/raspberrypi-artwork/stage.png
+Icon=/usr/share/raspberrypi-artwork/stage.png
 Exec=stage /usr/local/share/stage/worlds/pioneer_follow.world
 Type=Application
 Encoding=UTF-8
