@@ -3,10 +3,10 @@ Encoding=UTF-8
 Version=1.0
 Name=BlueJ Java IDE
 Comment=A simple powerful Java IDE
+Comment[pl]=Proste potężne zintegrowane środowisko programistyczne w Javie
 Categories=Application;Development;
 Exec=bluej
 TryExec=bluej
 Icon=bluej
 Terminal=false
 Type=Application
-

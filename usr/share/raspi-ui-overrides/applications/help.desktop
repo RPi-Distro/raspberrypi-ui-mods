@@ -2,7 +2,9 @@
 Type=Application
 Version=1.0
 Name=Help
+Name[pl]=Pomoc
 Comment=Link to help pages
+Comment[pl]=Odnośnik do stron z pomocą
 TryExec=/usr/bin/x-www-browser
 Exec=x-www-browser https://rpf.io/raspbian-help
 Icon=rpi

@@ -1,5 +1,9 @@
 [Desktop Entry]
+Version=1.0
 Name=Projects
+Name[pl]=Projekty
+Comment=Discover select projects you could do with the Raspberry Pi
+Comment[pl]=Poznaj wybrane projekty, które możesz wykonać z Raspberry Pi
 TryExec=/usr/bin/x-www-browser
 Exec=x-www-browser https://rpf.io/raspbian-projects
 Icon=rpi

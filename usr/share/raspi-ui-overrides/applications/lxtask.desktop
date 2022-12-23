@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Name=Task Manager
 Name[af]=Taakbestuurder
 Name[ar]=مدير المهام
@@ -26,7 +27,7 @@ Name[ms]=Pengurus Tugas
 Name[nb]=Oppgavebehandler
 Name[nl]=Taakbeheer
 Name[nn]=Oppgåvestyring
-Name[pl]=Menedżer zadań
+Name[pl]=Zarządca zadań
 Name[pt]=Gestor de tarefas
 Name[pt_BR]=Gerenciador de tarefas
 Name[ru]=Диспетчер задач
@@ -104,7 +105,7 @@ GenericName[lt]=Procesų valdyklė
 GenericName[nb]=Prosesshåndtering
 GenericName[nl]=Processenbeheer
 GenericName[nn]=Prosesshandsamar
-GenericName[pl]=Menedżer procesów
+GenericName[pl]=Zarządca procesów
 GenericName[pt]=Gestor de processos
 GenericName[pt_BR]=Gerenciador de processos
 GenericName[ru]=Диспетчер процессов

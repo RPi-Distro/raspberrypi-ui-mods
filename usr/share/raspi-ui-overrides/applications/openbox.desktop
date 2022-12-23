@@ -1,9 +1,11 @@
 [Desktop Entry]
+Version=1.0
 Encoding=UTF-8
 Name=Openbox
 Comment=Log in using the Openbox window manager (without a session manager)
+Comment[pl]=Loguj się przez zarządcę okien Openbox (pomijając zarządcę sesji)
 Comment[pt_BR]=Use esta sessãpara executar o Openbox como o seu ambiente de trabalho
-Exec=/usr/bin/openbox-session
+Exec=openbox-session
 TryExec=/usr/bin/openbox-session
 Icon=openbox.png
 Type=XSession

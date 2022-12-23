@@ -1,5 +1,7 @@
 [Desktop Entry]
+Version=1.0
 Name=Mono Runtime (Terminal)
+Name[pl]=Terminal środowiska uruchomieniowego Mono
 Exec=mono
 Terminal=true
 Type=Application

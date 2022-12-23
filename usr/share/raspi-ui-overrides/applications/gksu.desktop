@@ -1,6 +1,9 @@
 [Desktop Entry]
+Version=1.0
 Name=Root Terminal
+Name[pl]=Terminal administratora
 Comment=Opens a terminal as the root user, using gksu to ask for the password
+Comment[pl]=Otwiera terminal jako użytkownik „root”, używając gksu do odpytania hasła
 Encoding=UTF-8
 Exec=gksu /usr/bin/x-terminal-emulator
 Icon=gksu-root-terminal

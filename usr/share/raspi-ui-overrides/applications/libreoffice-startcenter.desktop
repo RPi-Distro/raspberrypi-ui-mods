@@ -16,7 +16,7 @@
 #   the License at http://www.apache.org/licenses/LICENSE-2.0 .
 #
 [Desktop Entry]
-Version=1.0
+Version=1.1
 Terminal=false
 NoDisplay=true
 Icon=libreoffice-startcenter
@@ -215,26 +215,32 @@ Actions=Writer;Calc;Impress;Draw;Base;Math;
 
 [Desktop Action Writer]
 Name=Text Document
+Name[pl]=Dokument tekstowy
 Exec=libreoffice --writer
 
 [Desktop Action Calc]
 Name=Spreadsheet
+Name[pl]=Arkusz kalkulacyjny
 Exec=libreoffice --calc
 
 [Desktop Action Impress]
 Name=Presentation
+Name[pl]=Prezentacja
 Exec=libreoffice --impress
 
 [Desktop Action Draw]
 Name=Drawing
+Name[pl]=Rysunek
 Exec=libreoffice --draw
 
 [Desktop Action Base]
 Name=Database
+Name[pl]=Baza danych
 Exec=libreoffice --base
 
 [Desktop Action Math]
 Name=Formula
+Name[pl]=Formuła
 Exec=libreoffice --math
 
 ##End of actions menu

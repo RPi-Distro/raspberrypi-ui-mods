@@ -2,5 +2,6 @@
 Name=PiXflat
 Type=X-GNOME-Metatheme
 Comment=PiXflat theme for Raspberry Pi, originally based on parts of Adwaita and Clearlooks
+Comment[pl]=Motyw PiXflat dla Raspberry Pi, początkowo oparty na częściach z Adwaita i Clearlooks
 Encoding=UTF-8
 GtkTheme=PiXflat

@@ -1,6 +1,7 @@
 [Desktop Entry]
 Version=1.0
 Name=Calculator
+Name[pl]=Kalkulator
 Comment=Perform simple and scientific calculations
 Comment[de]=Ausführen von einfachen und wissenschaftlichen Berechnungen
 Comment[ja]=単純な科学計算を実行します

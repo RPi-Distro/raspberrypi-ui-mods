@@ -1,9 +1,12 @@
 [Desktop Entry]
+Version=1.0
+Name=Dillo
 GenericName=Web Browser
 GenericName[lt]=Web naršyklė
-Name=Dillo
+GenericName[pl]=Przeglądarka internetowa
 Comment=Lightweight browser
 Comment[lt]=Labai paprasta naršyklė
+Comment[pl]=Lekka przeglądarka
 MimeType=text/html;text/xml;application/xhtml+xml;
 Exec=dillo
 Terminal=false

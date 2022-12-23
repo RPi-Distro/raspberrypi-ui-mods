@@ -1,7 +1,10 @@
 [Desktop Entry]
+Version=1.0
 Name=IDLE (using Python-3.2)
+Name[pl]=IDLE (używając Python-3.2)
 Comment=Integrated Development Environment for Python (using Python-3.2)
-Exec=/usr/bin/idle-python3.2
+Comment[pl]=Zintegrowane środowisko programistyczne dla Python (używające Python 3.2)
+Exec=idle-python3.2
 Icon=python
 Terminal=false
 Type=Application

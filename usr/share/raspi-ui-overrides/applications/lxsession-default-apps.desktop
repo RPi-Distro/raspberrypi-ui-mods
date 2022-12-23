@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Type=Application
 Icon=xfwm4
 Exec=lxsession-default-apps
@@ -19,7 +20,7 @@ Name[kk]=LXSession үшін үнсіз келісім қолданбалары
 Name[lg]=Puloguramu ez'omu lutuula lwa LXDE ez'enkalakkalira
 Name[lt]=Numatytosios LXSession programos
 Name[nl]=Standaardtoepassingen voor LXSession
-Name[pl]=Domyślne programy dla LXSession
+Name[pl]=Aplikacje domyślne dla LXSession
 Name[pt]=Aplicações pré-definidas de LxSession
 Name[ru]=Приложения по умолчанию для LXSession
 Name[sr]=Подразумевани програми ЛИкс-Сесије
@@ -46,7 +47,7 @@ Comment[kk]=LXDE үшін үнсіз келісім қолданбаларын �
 Comment[lg]=Kyusa puloguramu ez'omu lutuula lwa LXDE ez'enkalakkalira
 Comment[lt]=Pakeisti numatytąsias LXDE programas
 Comment[nl]=Wijzig de standaardtoepassingen voor LXDE
-Comment[pl]=Zmiana domyślnych programów w LXDE
+Comment[pl]=Zmieniaj aplikacje domyślne w LXDE
 Comment[pt]=Escolha as aplicações pré-definidas do LXDE
 Comment[ru]=Выбор приложений LXDE по умолчанию
 Comment[sr]=Поставите подразумеване програме за ЛИкс-ДЕ
