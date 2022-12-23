@@ -1,5 +1,7 @@
 [Desktop Entry]
+Version=1.0
 Name=Mono Runtime
+Name[de]=Mono‑Laufzeitumgebung
 Exec=mono
 Terminal=false
 Type=Application

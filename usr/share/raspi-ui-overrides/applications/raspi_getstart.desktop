@@ -1,5 +1,9 @@
 [Desktop Entry]
+Version=1.0
 Name=Get Started
+Name[de]=Erste Schritte
+Comment=Read on how to get started with the Raspberry Pi
+Comment[de]=Über die erste Schritte mit dem Raspberry Pi lesen
 TryExec=/usr/bin/x-www-browser
 Exec=x-www-browser https://rpf.io/raspbian-getstarted
 Icon=rpi

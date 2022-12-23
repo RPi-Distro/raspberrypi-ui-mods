@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Name=Task Manager
 Name[af]=Taakbestuurder
 Name[ar]=مدير المهام
@@ -6,7 +7,7 @@ Name[bg]=Диспечер на задачи
 Name[ca]=Gestor de tasques
 Name[cs]=Správce úloh
 Name[da]=Opgavehåndtering
-Name[de]=Taskmanager
+Name[de]=Taskverwaltung
 Name[el]=Διαχειριστής εργασιών
 Name[es]=Administrador de tareas
 Name[es_VE]=Administrador de tareas

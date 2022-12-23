@@ -125,7 +125,7 @@ Comment[gd]=Tha an raon seo de bhathar oifis co-chòrdail leis an fhòrmat fhosg
 Comment[el]=Το συμβατό πακέτο παραγωγικότητας γραφείου στην ανοιχτή και τυποποιημένη μορφή εγγράφου ODF. Υποστηρίζεται από το Document Foundation.
 Comment[hr]=Uredski paket je usklađen s otvorenim i standardiziranim ODF formatom dokumenta. Podržan od strane The Document Foundation.
 Comment[xh]=The office productivity suite compatible to the open and standardized ODF document format. Supported by The Document Foundation.
-Comment[de]=Die produktive Bürosoftware ist kompatibel zu dem offenen und standardisierten OpenDocument Format (ODF). Unterstützt von The Document Foundation.
+Comment[de]=Die produktive Bürosoftware ist kompatibel zu dem offenen und standardisierten OpenDocument Format (ODF). Unterstützt von „The Document Foundation“.
 Comment[bg]=Офис пакетът, съвместим с отворения и стандартизиран формат за документи ODF. Поддържа се от The Document Foundation.
 Comment[af]=The office productivity suite compatible to the open and standardized ODF document format. Supported by The Document Foundation.
 Comment[da]=Kontorpakken er kompatibel med den åbne standard ODF. Støttes af The Document Foundation.
@@ -215,26 +215,32 @@ Actions=Writer;Calc;Impress;Draw;Base;Math;
 
 [Desktop Action Writer]
 Name=Text Document
+Name[de]=Textdokument
 Exec=libreoffice --writer
 
 [Desktop Action Calc]
 Name=Spreadsheet
+Name[de]=Kalkulationsbogen
 Exec=libreoffice --calc
 
 [Desktop Action Impress]
 Name=Presentation
+Name[de]=Präsentation
 Exec=libreoffice --impress
 
 [Desktop Action Draw]
 Name=Drawing
+Name[de]=Zeichnung
 Exec=libreoffice --draw
 
 [Desktop Action Base]
 Name=Database
+Name[de]=Datenbank
 Exec=libreoffice --base
 
 [Desktop Action Math]
 Name=Formula
+Name[de]=Formel
 Exec=libreoffice --math
 
 ##End of actions menu

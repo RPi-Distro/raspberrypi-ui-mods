@@ -1,7 +1,11 @@
 [Desktop Entry]
+Version=1.0
 Name=PDF Viewer
+Name[de]=PDF‑Betrachter
 GenericName=PDF viewer
+GenericName[de]=PDF‑Betrachter
 Comment=Viewer for PDF files
+Comment[de]=Betrachter zum Anzeigen von PDF‑Dateien
 TryExec=xpdf
 Exec=xpdf
 Icon=xpdf

@@ -2,7 +2,9 @@
 Encoding=UTF-8
 Version=1.0
 Name=Greenfoot Java IDE
+Name[de]=Greenfoot integrierte Java‑Entwicklungsumgebung
 Comment=A simple Java IDE and animation framework
+Comment[de]=Eine einfache integrierte Java‑Entwicklungsumgebung und Animationsrahmenstruktur
 Categories=Application;Development;
 Exec=greenfoot
 TryExec=greenfoot

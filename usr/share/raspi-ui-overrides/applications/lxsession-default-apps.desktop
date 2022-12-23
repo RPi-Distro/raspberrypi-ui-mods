@@ -1,10 +1,12 @@
 [Desktop Entry]
+Version=1.0
 Type=Application
 Icon=xfwm4
 Exec=lxsession-default-apps
 Name=Default applications for LXSession
 Name[ar]=تطبيقاات LXSession الافتراضية
 Name[bg]=Стандартни приложения за LXSession
+Name[de]=Standardanwendungen für LXSession
 Name[es]=Aplicaciones predeterminadas para LXSession
 Name[et]=LXSessioni vaikimisi rakendused
 Name[fi]=LXSessionin oletussovellukset
@@ -32,6 +34,7 @@ Name[zh_TW]=LXSession 的預設應用程式
 Comment=Change the default applications on LXDE
 Comment[ar]=غيّر تطبيقات لكسدي الافتراضية
 Comment[bg]=Промени стандартните приложения за LXDE
+Comment[de]=Die Standardanwendungen in LXDE ändern
 Comment[es]=Cambie las aplicaciones predeterminadas en LXDE
 Comment[et]=LXDE vaikimisi rakenduste muutmine
 Comment[fi]=Muuta LXDE:n oletussovelluksia

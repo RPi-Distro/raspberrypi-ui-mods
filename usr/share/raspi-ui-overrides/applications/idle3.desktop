@@ -1,8 +1,10 @@
 [Desktop Entry]
+Version=1.0
 Name=Python 3 (IDLE)
 Comment=Integrated development environment for Python 3
+Comment[de]=Integrierte Entwicklungsumgebung für Python 3
 TryExec=/usr/bin/idle3
-Exec=/usr/bin/idle3
+Exec=idle3
 Icon=python
 Terminal=false
 Type=Application

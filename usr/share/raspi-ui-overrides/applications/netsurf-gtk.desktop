@@ -1,14 +1,18 @@
 [Desktop Entry]
+Version=1.0
 Name=NetSurf Web Browser
+Name[de]=NetSurf Web‑Browser
 Comment=Browse the World Wide Web
+Comment[de]=Im Internet surfen
 GenericName=Web Browser
+GenericName[de]=Web‑Browser
 Exec=netsurf-gtk %u
 Terminal=false
 X-MultipleArgs=false
 Type=Application
 Icon=netsurf.png
 Categories=Network;
-MimeType=text/html;text/xml;application/xhtml+xml;application/xml
+MimeType=text/html;text/xml;application/xhtml+xml;application/xml;
 StartupWMClass=NetSurf-bin
 StartupNotify=true
 NoDisplay=true

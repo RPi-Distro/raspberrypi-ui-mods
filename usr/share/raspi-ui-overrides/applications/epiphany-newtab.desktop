@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Name=Epiphany Web Browser
 Name[am]=ጥምቀት የዌብ መቃኛ
 Name[an]=Navegador web Epiphany
@@ -18,7 +19,7 @@ Name[ca@valencia]=Navegador web Epiphany
 Name[cs]=Prohlížeč WWW Epiphany
 Name[cy]=Y Porwr Gwe Epiphany
 Name[da]=Epiphany - internetbrowser
-Name[de]=Epiphany Webbrowser
+Name[de]=Epiphany Web‑Browser
 Name[dz]=ཨི་པི་ཕ་ནི་ ཝེབ་ བརའུ་ཟར།
 Name[el]=Περιηγητής διαδικτύου Epiphany
 Name[en@shaw]=·𐑦𐑐𐑦𐑓𐑩𐑯𐑦 𐑢𐑧𐑚 𐑚𐑮𐑬𐑟𐑼
@@ -111,7 +112,7 @@ GenericName[ca@valencia]=Navegador web
 GenericName[cs]=Prohlížeč WWW
 GenericName[cy]=Porwr Gwe
 GenericName[da]=Internetbrowser
-GenericName[de]=Webbrowser
+GenericName[de]=Web‑Browser
 GenericName[dz]=ཝེབ་ བརའུ་ཟར།
 GenericName[el]=Περιηγητής ιστοσελίδων
 GenericName[en@shaw]=𐑢𐑧𐑚 𐑚𐑮𐑬𐑟𐑼

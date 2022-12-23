@@ -2,5 +2,6 @@
 Name=PiX
 Type=X-GNOME-Metatheme
 Comment=PiX theme for Raspberry Pi, based on Adwaita 3.14
+Comment[de]=PiX‑Motiv für Raspberry Pi basierend auf Adwaita 3.14
 Encoding=UTF-8
 GtkTheme=PiX

@@ -1,4 +1,5 @@
 [Desktop Entry]
+Version=1.0
 Type=Application
 Name=File Manager
 Icon=system-file-manager
@@ -6,7 +7,7 @@ Name[be]=Файлавы менеджар
 Name[bg]=Файлов мениджър
 Name[cs]=Správce souborů
 Name[da]=Filhåndtering
-Name[de]=Dateimanager
+Name[de]=Dateiverwaltung
 Name[el]=Διαχειριστής αρχείων
 Name[en_GB]=File Manager
 Name[es]=Gestor de archivos
@@ -46,7 +47,7 @@ GenericName[be]=Файлавы менеджар
 GenericName[bg]=Файлов мениджър
 GenericName[cs]=Správce souborů
 GenericName[da]=Filhåndtering
-GenericName[de]=Dateimanager
+GenericName[de]=Dateiverwaltung
 GenericName[el]=Διαχειριστής αρχείων
 GenericName[en_GB]=File Manager
 GenericName[es]=Gestor de archivos

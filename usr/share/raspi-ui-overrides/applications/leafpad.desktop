@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Text Editor
+Name[de]=Texteditor
 Comment=Simple text editor
 Comment[bg]=Опростен текстов редактор
 Comment[br]=Embanner testennou eeun
@@ -44,5 +45,5 @@ Exec=leafpad %f
 Icon=accessories-text-editor
 Terminal=false
 Type=Application
-MimeType=text/plain
+MimeType=text/plain;
 Categories=GTK;Utility;TextEditor;
