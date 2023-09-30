@@ -176,7 +176,7 @@
   <object class="GtkWindow" id="wizard_dlg">
     <property name="can-focus">False</property>
     <property name="border-width">5</property>
-    <property name="title" translatable="yes">Welcome to urOS</property>
+    <property name="title" translatable="yes">Welcome to LaserTrac Os</property>
     <property name="resizable">False</property>
     <property name="window-position">center-always</property>
     <property name="icon-name">rpi</property>
@@ -216,7 +216,7 @@
                   <object class="GtkLabel" id="p0label">
                     <property name="visible">True</property>
                     <property name="can-focus">False</property>
-                    <property name="label" translatable="yes">Welcome to the urOS Desktop!
+                    <property name="label" translatable="yes">Welcome to the LaserTrac Os Desktop!
 
 Before you start using it, there are a few things to set up.
 
@@ -324,7 +324,7 @@ Press 'Next' to get started. </property>
                       <object class="GtkComboBox" id="p1comb1">
                         <property name="visible">True</property>
                         <property name="can-focus">False</property>
-                        <property name="tooltip-text" translatable="yes">Set the country in which you are using your urOS</property>
+                        <property name="tooltip-text" translatable="yes">Set the country in which you are using your LaserTrac Os</property>
                         <accessibility>
                           <relation type="labelled-by" target="p1label10"/>
                         </accessibility>
@@ -513,7 +513,7 @@ Press 'Next' to get started. </property>
                   <object class="GtkLabel" id="p2info">
                     <property name="visible">True</property>
                     <property name="can-focus">False</property>
-                    <property name="label" translatable="yes">You need to create a user account to log in to your urOS.
+                    <property name="label" translatable="yes">You need to create a user account to log in to your LaserTrac Os.
 
 The username can only contain lower-case letters, digits and hyphens, and must start with a letter.</property>
                     <property name="wrap">True</property>
@@ -1103,7 +1103,7 @@ Press 'Next' to check and update software, or 'Skip' to continue without checkin
                   <object class="GtkLabel" id="p6info">
                     <property name="visible">True</property>
                     <property name="can-focus">False</property>
-                    <property name="label" translatable="yes">Your urOS is now set up and ready to go.</property>
+                    <property name="label" translatable="yes">Your LaserTrac Os is now set up and ready to go.</property>
                     <property name="wrap">True</property>
                     <property name="max-width-chars">50</property>
                     <property name="xalign">0</property>

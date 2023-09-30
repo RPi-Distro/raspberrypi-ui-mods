@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Sensor Noise Demo
-Comment=Stage Example
-Icon=/usr/share/raspberrypi-artwork/stage.png
-Exec=bash -c 'ln -s /usr/share/applications/sensor_noise_demo.desktop /home/$USER/Desktop/sensor_noise_demo.desktop'
-Type=Application
-Encoding=UTF-8
-Terminal=falseAuto
-Categories=Education

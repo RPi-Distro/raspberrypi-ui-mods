@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Mbicp
-Comment=Stage Example
-Icon=/usr/share/raspberrypi-artwork/stage.png
-Exec=bash -c 'ln -s /usr/share/applications/mbicp.desktop /home/$USER/Desktop/mbicp.desktop'
-Type=Application
-Encoding=UTF-8
-Terminal=falseAuto
-Categories=Education

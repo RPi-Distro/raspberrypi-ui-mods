@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Pioneer Flocking
-Comment=Stage Example
-Icon=/usr/share/raspberrypi-artwork/stage.png
-Exec=bash -c 'ln -s /usr/share/applications/pioneer_flocking.desktop /home/$USER/Desktop/pioneer_flocking.desktop'
-Type=Application
-Encoding=UTF-8
-Terminal=falseAuto
-Categories=Education

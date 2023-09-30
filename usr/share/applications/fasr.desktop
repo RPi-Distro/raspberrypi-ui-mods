@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Fasr
-Comment=Stage Example
-Icon=/usr/share/raspberrypi-artwork/stage.png
-Exec=stage /usr/local/share/stage/worlds/fasr.world
-Type=Application
-Encoding=UTF-8
-Terminal=falseAuto
-Categories=Education

@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=UOA Robotics Lab
-Comment=Stage Example
-Icon=/usr/share/raspberrypi-artwork/stage.png
-Exec=bash -c 'ln -s /usr/share/applications/uoa_robotics_lab.desktop /home/$USER/Desktop/uoa_robotics_lab.desktop'
-Type=Application
-Encoding=UTF-8
-Terminal=falseAuto
-Categories=Education

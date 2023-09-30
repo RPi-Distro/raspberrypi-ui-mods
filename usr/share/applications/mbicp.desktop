@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Mbicp
-Comment=Stage Example
-Icon=/usr/share/raspberrypi-artwork/stage.png
-Exec=stage /usr/local/share/stage/worlds/mbicp.world
-Type=Application
-Encoding=UTF-8
-Terminal=falseAuto
-Categories=Education

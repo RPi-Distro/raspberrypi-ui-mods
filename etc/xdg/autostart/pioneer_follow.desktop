@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Pioneer Follow
-Comment=Stage Example
-Icon=/usr/share/raspberrypi-artwork/stage.png
-Exec=bash -c 'ln -s /usr/share/applications/pioneer_follow.desktop /home/$USER/Desktop/pioneer_follow.desktop'
-Type=Application
-Encoding=UTF-8
-Terminal=falseAuto
-Categories=Education

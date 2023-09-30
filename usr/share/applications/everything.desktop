@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Everything
-Comment=Stage Example
-Icon=/usr/share/raspberrypi-artwork/stage.png
-Exec=stage /usr/local/share/stage/worlds/everything.world
-Type=Application
-Encoding=UTF-8
-Terminal=falseAuto
-Categories=Education
